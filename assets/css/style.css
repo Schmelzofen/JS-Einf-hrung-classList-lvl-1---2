@@ -1,0 +1,15 @@
+.hl{
+    font-size: 7vh;
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.list{
+    font-size: 5vh;
+    color: blue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+}
